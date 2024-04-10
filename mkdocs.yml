@@ -1,0 +1,7 @@
+site_name: Validador
+theme:
+  name: 'material'
+
+plugins:
+  - search
+  - mkdocstrings
